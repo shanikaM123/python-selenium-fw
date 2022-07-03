@@ -1,0 +1,4 @@
+username,password,exp
+shanikatest@gmail.com,1234,pass
+shanikatest1@gmail.com,1234,fail
+shanikatest@gmail.com,11234,fail
