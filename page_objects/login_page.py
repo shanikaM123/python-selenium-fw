@@ -19,3 +19,6 @@ class LoginPage:
 
     def click_logout(self):
         self.driver.find_element(*LoginLocators.logout_btn).click()
+
+    def clickonwomenlink(self):
+        self.driver.find_element(*LoginLocators.women_link).click()
